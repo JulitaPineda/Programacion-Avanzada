@@ -1,6 +1,6 @@
 # Programacion-Avanzada
 ##Julia Pineda - 1020415
-###Usuario: julita_1697
+###Usuario: JulitaPineda
 
 | Curso         			                    | Nota    | 
 | ----------------------------------------|--------:| 
