@@ -4,6 +4,8 @@
 
 #### By Andony Zamora, Lester Garcia and Julia Pineda
 
+The first proyect is about of a simulator system of distributed servers. In which it contains 
+
 ### October 18th, 2016 
 
 We started reading, undertanding and analyzing the proyect. 
