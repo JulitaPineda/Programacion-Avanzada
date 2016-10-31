@@ -18,6 +18,8 @@ We wrote note about the structures that we need for the proyect like:
 * Arrays.
 
 #### Arrays
+  * collection of data that holds fixed number of values of same type.
+  
 #### Stacks
 #### Tails
 #### Memory
