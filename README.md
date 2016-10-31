@@ -16,13 +16,16 @@ We wrote note about the structures that we need for the proyect like:
 * Exit and Fail Stack.
 * Memory.
 * Arrays.
+* List.
 
 #### Arrays
-  * collection of data that holds fixed number of values of same type.
+  * Collection of data that holds fixed number of values of same type.
   
 #### Stacks
+ *  Collection in which are kept in order and the principal operations on the collection are the addition of entities to the rear terminal position.
+ 
 #### Tails
-#### Memory
+ * It is a data structure, characterized by being a sequence of elements in which the operation push its made in one extreme and Extraction Operation pop on the other.
 
 
 ### October 19th, 2016
