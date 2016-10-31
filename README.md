@@ -17,6 +17,7 @@ We wrote note about the structures that we need for the proyect like:
 * Memory.
 * Arrays.
 * List.
+* Memory Mapping 
 
 #### Arrays
   * Collection of data that holds fixed number of values of same type.
