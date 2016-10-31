@@ -8,10 +8,10 @@
 
 We started reading and undertanding the proyect and we searched for any word that we can´t understand at all. 
 We wrote note about the simple data structures that we need for the proyect like:
-*Pointers.
-*Stacks.
-*Tails.
-*Load of File
+* Pointers.
+* Stacks.
+* Tails.
+* Load of File
 
 
 ### October 19th, 2016
