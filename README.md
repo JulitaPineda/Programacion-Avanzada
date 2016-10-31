@@ -51,7 +51,7 @@ We analidze the petition tail, this tail has to run and consume available resour
 
 ### October 24th, 2016
 
-We made the server 1 and the server 2. 
+We made the cade for the server 1 and the server 2. 
 
 ### October 25th, 2016
 
