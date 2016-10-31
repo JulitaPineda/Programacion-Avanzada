@@ -26,6 +26,12 @@ We wrote note about the structures that we need for the proyect like:
  
 #### Tails
  * It is a data structure, characterized by being a sequence of elements in which the operation push its made in one extreme and Extraction Operation pop on the other.
+ 
+#### Memory 
+ * Retained, or stored computer data stored for some time. They are three types of memory: 
+  * Random access memory
+  * Direct access memory
+  * Memory register
 
 
 ### October 19th, 2016
